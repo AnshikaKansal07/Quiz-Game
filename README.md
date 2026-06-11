@@ -33,6 +33,5 @@ A terminal-based 5-question trivia quiz.
 ---
 
 ## 4. Screenshot
-<!-- upload your screenshot and replace the link below -->
 <img width="639" height="449" alt="Image" src="https://github.com/user-attachments/assets/704e31f1-43b1-433d-bf87-3760b8e1dfb1" />
 ---
